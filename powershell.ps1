@@ -1,0 +1,1 @@
+﻿Add-AppxProvisionedPackage -Online -PackagePath c:\temp2\InstallDVDAppxPackage\cd0c0ffe0ee94518833e70b1e931fcff.appxbundle -LicensePath c:\temp2\InstallDVDAppxPackage\cd0c0ffe0ee94518833e70b1e931fcff_License1.xml
